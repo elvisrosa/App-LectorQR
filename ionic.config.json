@@ -1,0 +1,10 @@
+{
+  "name": "06-lector-qr",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
